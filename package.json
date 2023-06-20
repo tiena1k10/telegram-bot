@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.com:d3v20/telegram-bot.git",
+  "author": "tienak10 <tienak10@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv-safe": "^8.2.0",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.33",
+    "mongodb": "^3.6.4",
+    "node-telegram-bot-api": "^0.51.0"
+  }
+}
